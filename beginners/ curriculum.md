@@ -9,6 +9,7 @@
 
 Machine learning is all about linear  algebra , too curious to learn more about that amazing part of mathematics, check out this series of [videos](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)?
 
+curriculum
 ## Week two Introduction to Datascience tools (Pandas and Numpy) :
 
  ## Suggest ressources 

@@ -23,3 +23,7 @@ curriculum
  - Pandas for Datascience Exploratory data analysis [10 minutes to Pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html)
  - More advanced tutorials [1](https://realpython.com/python-pandas-tricks/) and [2](https://realpython.com/fast-flexible-pandas/)
 
+## Materials From Sammy
+-[Pandas beginner](https://www.kaggle.com/learn/pandas)
+
+-[Numpy tutorial](https://hackernoon.com/introduction-to-numpy-1-an-absolute-beginners-guide-to-machine-learning-and-data-science-5d87f13f0d51)

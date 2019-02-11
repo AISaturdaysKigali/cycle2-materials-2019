@@ -1,5 +1,9 @@
 ## Materials for week one :
 
+### Setup (Jupyter and anaconda):
+ - [Machine Learning setup for python](https://realpython.com/python-windows-machine-learning-setup/)
+ - [Getting started with jupyter](https://realpython.com/jupyter-notebook-introduction/)
+
  ### Theorical session :
  - [Azeez Blog For Python Tutorial](https://kantologist.github.io/Tutorials/#!/)
  ### Pratical Session :

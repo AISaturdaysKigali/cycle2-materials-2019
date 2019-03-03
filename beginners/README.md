@@ -41,3 +41,15 @@ https://web.stanford.edu/class/cs231a/section/section1.pdf)
 https://towardsdatascience.com/the-mathematics-of-machine-learning-894f046c568)
 - [Siraj Mathematics of ML](https://www.youtube.com/watch?v=8onB7rPG4Pk&t=121s&pbjreload=10)
 - [Calculs for ML](https://ml-cheatsheet.readthedocs.io/en/latest/calculus.html)
+
+
+
+## Week four : Linear Regression
+
+### Theorical session :
+
+- [Andrew Ng Linear Regression](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+
+### Practical session :
+
+- [Implementing linear Regression from scratch](https://mubaris.com/posts/linear-regression/)

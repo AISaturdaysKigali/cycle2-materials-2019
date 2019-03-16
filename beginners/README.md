@@ -1,7 +1,12 @@
 ## Materials for week one :
 
+### Setup (Jupyter and anaconda):
+ - [Machine Learning setup for python](https://realpython.com/python-windows-machine-learning-setup/)
+ - [Getting started with jupyter](https://realpython.com/jupyter-notebook-introduction/)
+
  ### Theorical session :
  - [Azeez Blog For Python Tutorial](https://kantologist.github.io/Tutorials/#!/)
+ - [All in one Intro to python](https://github.com/kuleshov/cs228-material/blob/master/tutorials/python/cs228-python-tutorial.ipynb)
  ### Pratical Session :
  - [Python course on progate plateform ](https://progate.com/python/study/1/3#/0)
  - [Introduction to python](https://www.youtube.com/watch?v=N4mEzFDjqtA)
@@ -23,3 +28,28 @@ curriculum
  - Pandas for Datascience Exploratory data analysis [10 minutes to Pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html)
  - More advanced tutorials [1](https://realpython.com/python-pandas-tricks/) and [2](https://realpython.com/fast-flexible-pandas/)
 
+## Week three : Mathematics of Machine Learning 
+
+ ### Suggest ressources 
+- [Introduction Linear Algebra](
+https://web.stanford.edu/class/cs231a/section/section1.pdf)
+- [Essence of Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [Essence of calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+- [Intro to statistics by Siraj](https://www.youtube.com/watch?v=MdHtK7CWpCQ)
+### Additional ressources
+- [The mathematics of Machine Learning](
+https://towardsdatascience.com/the-mathematics-of-machine-learning-894f046c568)
+- [Siraj Mathematics of ML](https://www.youtube.com/watch?v=8onB7rPG4Pk&t=121s&pbjreload=10)
+- [Calculs for ML](https://ml-cheatsheet.readthedocs.io/en/latest/calculus.html)
+
+
+
+## Week four : Linear Regression
+
+### Theorical session :
+
+- [Andrew Ng Linear Regression](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+
+### Practical session :
+
+- [Implementing linear Regression from scratch](https://mubaris.com/posts/linear-regression/)

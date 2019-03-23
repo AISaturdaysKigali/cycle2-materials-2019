@@ -53,3 +53,17 @@ https://towardsdatascience.com/the-mathematics-of-machine-learning-894f046c568)
 ### Practical session :
 
 - [Implementing linear Regression from scratch](https://mubaris.com/posts/linear-regression/)
+
+
+## Week Five : Linera Regression Suite (Gradient Descent and SKlearn Implementation)
+
+### Theorical session:
+
+- [Andrew Ng Gradient Descent](https://www.youtube.com/watch?v=yFPLyDwVifc)
+
+### Practical session:
+
+- [Linear Regression Sk-learn](https://bigdata-madesimple.com/how-to-run-linear-regression-in-python-scikit-learn/)
+- [Gradient descent in a nutshell ](https://towardsdatascience.com/gradient-descent-in-a-nutshell-eaf8c18212f0)
+
+

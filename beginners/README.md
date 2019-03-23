@@ -55,7 +55,7 @@ https://towardsdatascience.com/the-mathematics-of-machine-learning-894f046c568)
 - [Implementing linear Regression from scratch](https://mubaris.com/posts/linear-regression/)
 
 
-## Week Five : Linera Regression Suite (Gradient Descent and SKlearn Implementation)
+## Week Five : Linear Regression  (Gradient Descent and SKlearn Implementation)
 
 ### Theorical session:
 

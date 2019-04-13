@@ -67,3 +67,23 @@ https://towardsdatascience.com/the-mathematics-of-machine-learning-894f046c568)
 - [Gradient descent in a nutshell ](https://towardsdatascience.com/gradient-descent-in-a-nutshell-eaf8c18212f0)
 
 
+## Week Six : Linear Regression  (Exercice)
+
+
+## Week Seven : Linear Regression  (Exercice) 
+
+## Week Eight : Break
+
+
+## Week Nine : Logistic Regression 
+
+### Theorical session : 
+
+- [Andrew Ng Logistic Regression Video 6.1 to 6.6](https://www.youtube.com/watch?v=-la3q9d7AKQ&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=32)
+
+- [Delta Analytics Logistic Regression Slides](https://docs.google.com/presentation/d/1wxHKYyv1Px7yL4M7NmudDG4Fgm8g3WMDgBcOfT1kVug/edit#slide=id.g2cfbea957e_1_722)
+
+
+### Practical session:
+
+- [AI6-Lagos Logistic Regression from Scratch](https://github.com/AISaturdaysLagos/cohort3-resources/blob/master/Beginner/Week8/Notebook/Logistic%20Regression.ipynb)
